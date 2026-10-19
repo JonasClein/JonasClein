@@ -5,8 +5,8 @@ I'm a software engineering student from the Netherlands. I love building practic
 
 ### 🚀 What I'm Working On
 
-- ⚽ **[Football Diary](https://footballdiary.app/)**: A mobile app helping football players track their training, reflect on performances, and take control of their development.
-- 🔗 **ReLink**: An AI-powered developer tool and platform that intelligently recovers broken documentation links, improving the experience for developers and AI agents, and provides actionable insights into documentation health, broken links, and content gaps.
+- ⚽ **[Football Diary](https://footballdiary.app/)**: A mobile app helping football players track their training, reflect on performances, gain valuable insights and take control of their development.
+- 🔗 **ReLink**: An AI-powered developer tool and platform that intelligently recovers broken documentation links, improving the experience for developers/AI-agents, and provides actionable insights into documentation health, broken links, and content gaps.
 - 🛠️ **WartungsManager**: A full-stack property maintenance management platform that automates recurring maintenance, coordinates service providers, and tracks work orders, helping property managers stay on top of maintenance and reduce administrative work.
 - 🌱 **GrassPort**: A playful mobile app that encourages people to explore the real world through daily side quests and collectible rewards.
 - 🏠 **RentFix**: A maintenance management platform that simplifies issue reporting for tenants and automatically routes repair requests to the right vendors, reducing manual work for landlords and property managers.
